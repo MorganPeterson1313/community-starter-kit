@@ -35,4 +35,7 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+comment to be posted on pull request merged by a first time user
+firstPRMergeComment: >
+Great Job on merging your first pull request! Keep up the great work!
+
