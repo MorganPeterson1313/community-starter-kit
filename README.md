@@ -1,10 +1,14 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+What a Probot can do to help you get familiar with the useful applications of Github
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Help users go through activity
+- Assign Tasks
+- Give feedback
+- Make comments
+
 
 ## Getting started
 
